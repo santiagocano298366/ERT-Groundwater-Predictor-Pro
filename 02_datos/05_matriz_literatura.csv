@@ -1,0 +1,11 @@
+ID,Autor_Año,Título,Problema,Técnica,Hallazgos,Relación,Año
+R1,Abdelrahman et al. (2024),Application of ERT for groundwater potential assessment,Identificación de acuíferos,ERT + borehole,σ>0.01 S/m indica agua,Validación umbrales,2024
+R2,USGS (2024),Self-potential and ERT data for groundwater monitoring,Monitoreo temporal,SP + ERT,Monitoreo real viable,Metodología monitoreo,2024
+R3,Frontiers Water (2025),Global perspectives on geophysical survey methods,Comparación métodos,"ERT, EM, Gravity",ERT efectiva <100m,Comparación técnicas,2025
+R4,Samouëlian et al. (2023),Electrical resistivity imaging for soil water content,Relación σ-humedad,TDR + Resistivity,Correlación σ-humedad robusta,Calibración sensores,2023
+R5,Hermans et al. (2020),Three-dimensional electrical resistivity tomography,Inversión 3D,ERT 3D inversion,Inversión 3D mejora,Procesamiento datos,2020
+R6,Loke (2023),Res2D and Res3D software for 2D/3D inversion,Procesamiento ERT,Software,RES3DINV estándar,Herramientas SW,2023
+R7,Koesuma et al. (2024),"Aquifer detection using ERT in Probolinggo, Indonesia",Detección en trópico,ADMT 300HT2,Precisión ~85%,Caso similar,2024
+R8,Guerin et al. (2021),Frequency-dependent electrical properties of rocks,Influencia frecuencia,Lab measurements,Frecuencia afecta,Consideraciones HW,2021
+R9,Kaya & Yoshida (2021),Machine learning for groundwater potential mapping,IA para predicción,Random Forest + LR,IA ~90% precisión,Base modelo ML,2021
+R10,Xu et al. (2022),Time-lapse ERT for aquifer characterization,Evolución temporal,Time-lapse ERT,Cambios cada 2 sem.,Automatización,2022

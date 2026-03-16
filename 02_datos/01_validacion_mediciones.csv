@@ -1,0 +1,16 @@
+id_medicion,fecha,resistencia_ohm,corriente_ma,voltaje_v,contacto_ohm,estado,num_problemas,problemas
+1,2016-11-01,-2.5,85.5,-0.215,2500,NORMAL,0,Ninguno
+2,2016-11-02,-1.8,92.3,-0.167,2800,NORMAL,0,Ninguno
+3,2016-11-03,-0.5,78.4,-0.039,2300,NORMAL,0,Ninguno
+4,2016-11-04,-3.2,88.1,-0.283,3200,NORMAL,0,Ninguno
+5,2016-11-05,-0.1,95.2,-0.01,2100,NORMAL,0,Ninguno
+6,2016-11-06,-4.5,102.5,-0.395,3500,NORMAL,0,Ninguno
+7,2016-11-07,-2.1,110.3,-0.184,2900,NORMAL,0,Ninguno
+8,2016-11-08,-30.5,305.0,-2.85,15000,CRÍTICO,4,Resistencia CRÍTICA (cortocircuito posible); Corriente ANÓMALA; Voltaje CRÍTICO (amplitud extrema); Contacto CRÍTICO (electrodo degradado)
+9,2016-11-09,-1.9,89.1,-0.171,2600,NORMAL,0,Ninguno
+10,2016-11-10,-2.3,91.5,-0.209,2950,NORMAL,0,Ninguno
+11,2016-11-11,-2.6,87.3,-0.236,3100,NORMAL,0,Ninguno
+12,2016-11-12,-0.9,93.8,-0.084,2450,NORMAL,0,Ninguno
+13,2016-11-13,-1.5,96.2,-0.136,2700,NORMAL,0,Ninguno
+14,2016-11-14,-200.0,50.2,0.05,100,CRÍTICO,3,Resistencia CRÍTICA (cortocircuito posible); Voltaje ANÓMALO; Contacto CRÍTICO (cortocircuito)
+15,2016-11-15,-2.8,94.1,-0.255,2850,NORMAL,0,Ninguno

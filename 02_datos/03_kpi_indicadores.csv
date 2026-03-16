@@ -1,0 +1,7 @@
+KPI,Valor,Estado,Umbral Verde
+Confiabilidad,100.00,VERDE,75-100
+Variabilidad,2366.70,ROJO,0-150
+Calidad Contacto,86.67,VERDE,70-100
+Consistencia Temporal,298.16,VERDE,0-300
+Completitud,100.00,VERDE,99-100
+Anomalías,35.89,ROJO,0-10

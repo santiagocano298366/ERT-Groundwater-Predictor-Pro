@@ -1,0 +1,8 @@
+Fase,Mes Inicio,Mes Fin,Duración (meses),Hitos Principales
+Análisis de datos,1,2,2,Dataset limpio + EDA
+Desarrollo modelo,3,4,2,Modelo con 85% precisión
+Diseño hardware,5,7,3,PCB + electrónica validada
+Desarrollo software,5,7,3,API + App móvil funcionales
+Validación campo,8,10,3,20 sitios validados
+Prototipado,11,12,2,5 prototipos construidos
+Documentación,11,12,2,Papers + Manual usuario

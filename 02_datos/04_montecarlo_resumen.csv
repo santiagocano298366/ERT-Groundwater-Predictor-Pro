@@ -1,0 +1,10 @@
+Parámetro,Valor
+Número de simulaciones,5000
+Media (S/m),0.2340
+Desv.Est. (S/m),0.2491
+Mínimo (S/m),-0.5777
+Máximo (S/m),1.2142
+Percentil 5 (S/m),-0.1708
+Percentil 95 (S/m),0.6426
+Umbral de agua (S/m),0.01
+Probabilidad de agua,81.5%

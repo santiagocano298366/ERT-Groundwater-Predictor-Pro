@@ -1,0 +1,6 @@
+Operación,Tiempo_s,Tipo
+Estadísticas,0.002447366714477539,Agregación
+Filtrado,0.0007064342498779297,Filtrado
+Transformaciones,0.0007297992706298828,Matemática
+Percentiles,0.0034379959106445312,Percentiles
+Vectorizadas,0.0022072792053222656,Vectorización
